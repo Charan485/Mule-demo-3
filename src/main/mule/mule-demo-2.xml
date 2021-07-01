@@ -6,5 +6,6 @@
 	<flow name="mule-demo-2Flow" doc:id="37705dc3-e34d-4144-a7b2-48715b909912" >
 		<logger level="INFO" doc:name="Logger" doc:id="42640df8-31cd-4092-9cd9-5b45c6c95e98" message="Hi All"/>
 		<logger level="INFO" doc:name="Logger" doc:id="16a43f24-c7f7-4c02-af0d-7be0ec525fcb" />
+		<logger level="INFO" doc:name="Logger" doc:id="744c4f69-23a6-4804-a536-0051b390f3a4" />
 	</flow>
 </mule>
